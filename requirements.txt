@@ -1,0 +1,2 @@
+# Requires: potential-stillness
+# (Not available on PyPI)
